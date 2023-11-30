@@ -1,5 +1,4 @@
 # Computational-Neuroscience
-#TO SUPPORT please consider supporting UPI - aerosandeep777@oksbi (even a small 20Rs would be of great help :3 )
 
 - - - 
 best notes of computational neuroscience from nptel for free  
